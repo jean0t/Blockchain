@@ -15,8 +15,8 @@ This repository contains various experiments and code samples related to blockch
 
 The repository is organized into different directories, each representing a specific experiment or concept within blockchain technology. Here is a brief overview:
 
-- `python/`: Contains Python scripts and projects related to blockchain experiments.
-- `golang/`: Contains Go code and projects related to blockchain experiments.
+- `blockchainpy/`: Contains Python scripts and projects related to blockchain experiments.
+- `blockchaingo/`: Contains Go code and projects related to blockchain experiments.
 
 ## Getting Started
 
