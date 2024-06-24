@@ -31,7 +31,7 @@ To get started with the code in this repository, you will need to have both Pyth
    pip install -r python/requirements.txt```
    
 
-## Go
+### Go
 
 1. Install Go from the [official website](https://golang.org/).
 2. Set up your Go environment by following the instructions on the website.
